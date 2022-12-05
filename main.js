@@ -1,7 +1,7 @@
 const passwordEl = document.querySelector("div");
 const button = document.querySelector("button");
 button.addEventListener("click",() => {
- 
+    passwordEl.textContent = genarate_password(); 
 })
 
 
