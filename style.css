@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+div {
+  margin: 50px auto 10px auto ;
+  width: 200px;
+  height: 80px;
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+ button { 
+  display: flex;
+  width: 70px;
+  height: 22px;
+  margin: 1px auto;
+ }
